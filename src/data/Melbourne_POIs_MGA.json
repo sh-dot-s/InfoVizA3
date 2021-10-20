@@ -1,0 +1,3837 @@
+{
+  "type": "FeatureCollection",
+  "name": "Melbourne_POIs_MGA",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Flemington Bridge Railway Station",
+        "Y": -37.78816459,
+        "X": 144.9392778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93927779995704,
+          -37.788164589754373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Mixed Use",
+        "Sub_Theme": "Retail\/Office\/Carpark",
+        "Feature_Na": "Council House 2 (CH2)",
+        "Y": -37.81425914,
+        "X": 144.9666384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.966638399738684,
+          -37.814259139701534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Library",
+        "Feature_Na": "The Melbourne Athenaeum Library",
+        "Y": -37.81488558,
+        "X": 144.9672913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967291299903195,
+          -37.814885579980398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Carlton Gardens South",
+        "Y": -37.80606846,
+        "X": 144.9712665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.971266499522926,
+          -37.806068459640876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Francis Church",
+        "Y": -37.81188478,
+        "X": 144.9624226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.962422599574381,
+          -37.811884780107412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Wesley Church",
+        "Y": -37.81015764,
+        "X": 144.9681682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968168200296219,
+          -37.8101576395865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Augustines Church",
+        "Y": -37.81697414,
+        "X": 144.954862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.954862000029323,
+          -37.816974139568956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St James Church",
+        "Y": -37.81012812,
+        "X": 144.9524686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95246859952357,
+          -37.810128119778625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Mary's Anglican Church",
+        "Y": -37.80316637,
+        "X": 144.9537615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.953761499672453,
+          -37.803166369577426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Romanian Orthodox",
+        "Y": -37.80523073,
+        "X": 144.9669864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.966986399732406,
+          -37.805230729759685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Welsh Presbyterian Church",
+        "Y": -37.81044788,
+        "X": 144.9598733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.959873300329605,
+          -37.810447879780334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Church of Christ",
+        "Y": -37.81045241,
+        "X": 144.9638892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963889200040057,
+          -37.810452410110116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Scots Church",
+        "Y": -37.81456878,
+        "X": 144.9685511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968551099926628,
+          -37.814568780167725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Michael's Uniting Church",
+        "Y": -37.81438513,
+        "X": 144.969174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.969174000391888,
+          -37.814385129621471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Greek Orthodox Church",
+        "Y": -37.80880647,
+        "X": 144.9782591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97825909967537,
+          -37.808806470425189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Peter's Eastern Hill",
+        "Y": -37.80970867,
+        "X": 144.9752592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.975259199652498,
+          -37.809708670360081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Lutheran Trinity Church",
+        "Y": -37.81097571,
+        "X": 144.9757295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.975729500261565,
+          -37.810975710065669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Holy Trinity",
+        "Y": -37.81406671,
+        "X": 144.9831973
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.983197299885376,
+          -37.814066709912105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Johns Lutheran Church",
+        "Y": -37.82093997,
+        "X": 144.9671211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96712109964659,
+          -37.820939970190331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "North Melbourne Uniting",
+        "Y": -37.80355385,
+        "X": 144.9476715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.947671499676801,
+          -37.803553850063444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Melbourne Unitarian Church",
+        "Y": -37.81144878,
+        "X": 144.9846649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.984664900162926,
+          -37.811448779748098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "All Nations Uniting Church",
+        "Y": -37.79591553,
+        "X": 144.9689811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96898109945829,
+          -37.795915529857524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Our Lady of Lebanon Church",
+        "Y": -37.80257665,
+        "X": 144.9693347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.969334700164325,
+          -37.802576650229675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Michaels",
+        "Y": -37.79405127,
+        "X": 144.9453995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.945399500014588,
+          -37.794051270181718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Ukranian Catholic Cathedral",
+        "Y": -37.79630846,
+        "X": 144.9443135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.944313499836085,
+          -37.79630845962145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Alban Anglican Church",
+        "Y": -37.79421695,
+        "X": 144.9416145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.941614499810925,
+          -37.794216949797999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Christ Church Kensington",
+        "Y": -37.79321095,
+        "X": 144.9272957
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.927295699834929,
+          -37.793210949788808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Holy Rosary",
+        "Y": -37.79480874,
+        "X": 144.9283621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.928362099493398,
+          -37.794808739975565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "Collins Street Baptist Church",
+        "Y": -37.81470119,
+        "X": 144.9680725
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968072500090813,
+          -37.814701190368318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Thomas Aquinas Church",
+        "Y": -37.83530769,
+        "X": 144.9768091
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.976809100072614,
+          -37.835307690255583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "South Yarra Presbyterian Church",
+        "Y": -37.84074736,
+        "X": 144.985627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.985627000574254,
+          -37.840747359590942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "The Parish of Christ Church South Yarra",
+        "Y": -37.83862705,
+        "X": 144.9860094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.986009399836547,
+          -37.838627049548421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Private Hospital",
+        "Feature_Na": "Melbourne Private Hospital",
+        "Y": -37.79831113,
+        "X": 144.9572884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95728839970667,
+          -37.798311130006425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Synagogue",
+        "Feature_Na": "East Melbourne Synagogue",
+        "Y": -37.80911373,
+        "X": 144.9742219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.974221900006683,
+          -37.809113729653035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Police Station",
+        "Feature_Na": "Victoria Police",
+        "Y": -37.8164849,
+        "X": 144.9664868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.966486799845597,
+          -37.816484899564124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Police Station",
+        "Feature_Na": "Victoria Police",
+        "Y": -37.80031213,
+        "X": 144.9546975
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.954697500004244,
+          -37.800312129574536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Police Station",
+        "Feature_Na": "Victoria Police",
+        "Y": -37.82197739,
+        "X": 144.953398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.953397999855241,
+          -37.821977390214087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Visitor Centre",
+        "Feature_Na": "Melbourne Visitor Booth",
+        "Y": -37.81395251,
+        "X": 144.9644259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964425900062082,
+          -37.813952510025445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "State Netball Hockey Centre",
+        "Y": -37.785786,
+        "X": 144.947581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.947581000031107,
+          -37.785786000088095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Transport Terminal",
+        "Feature_Na": "Port of Melbourne",
+        "Y": -37.81373844,
+        "X": 144.9175343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.917534299651692,
+          -37.813738439894905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Private Sports Club\/Facility",
+        "Feature_Na": "Royal Park Golf Course",
+        "Y": -37.78191713,
+        "X": 144.9563091
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.956309100099389,
+          -37.781917129619089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Powlett Reserve",
+        "Y": -37.81169299,
+        "X": 144.9872757
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.987275699536838,
+          -37.811692990300564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Cemetery",
+        "Feature_Na": "Melbourne General Cemetery",
+        "Y": -37.789189,
+        "X": 144.965786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.965785999834935,
+          -37.789188999776158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "Carlton Football Club",
+        "Y": -37.78408644,
+        "X": 144.9619678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96196780033668,
+          -37.784086440170142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "Visy Park",
+        "Y": -37.78343039,
+        "X": 144.9619826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96198260024272,
+          -37.783430389582307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Retail",
+        "Sub_Theme": "Retail",
+        "Feature_Na": "Queen Victoria Market",
+        "Y": -37.8075002,
+        "X": 144.9571585
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.957158500331218,
+          -37.80750020031158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Primary Schools",
+        "Feature_Na": "Carlton Gardens Primary School",
+        "Y": -37.80209538,
+        "X": 144.9694063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.969406300109881,
+          -37.802095379600942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Primary Schools",
+        "Feature_Na": "Carlton Primary School",
+        "Y": -37.79590798,
+        "X": 144.9701473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.970147300110227,
+          -37.795907980139198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Carlton Gardens North",
+        "Y": -37.80176908,
+        "X": 144.9719976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.971997600018824,
+          -37.80176907983509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Old Melbourne Gaol Crime & Justice Experience",
+        "Y": -37.80776441,
+        "X": 144.9654639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.965463899837857,
+          -37.80776440978449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Kings Domain",
+        "Y": -37.82552398,
+        "X": 144.9741079
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.974107899843062,
+          -37.825523980385952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Secondary Schools",
+        "Feature_Na": "Melbourne Grammar School",
+        "Y": -37.8342561,
+        "X": 144.976285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.976284999683969,
+          -37.834256100302056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "School - Primary and Secondary Education",
+        "Feature_Na": "Wesley College",
+        "Y": -37.84852018,
+        "X": 144.9822278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.982227800549765,
+          -37.848520179941431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "FairFax Studio",
+        "Y": -37.82166846,
+        "X": 144.9688362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968836199900068,
+          -37.821668459719525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "Playhouse",
+        "Y": -37.82181246,
+        "X": 144.9683378
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968337800429396,
+          -37.821812460334129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "State Theatre",
+        "Y": -37.82128063,
+        "X": 144.9684696
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968469599424708,
+          -37.821280630268895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Tertiary (University)",
+        "Feature_Na": "University of Melbourne (VCA and Music)",
+        "Y": -37.82411377,
+        "X": 144.9693325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.969332500369177,
+          -37.824113770251891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "St Martins Youth Arts Centre",
+        "Y": -37.83524295,
+        "X": 144.9811422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.981142200498965,
+          -37.835242949867492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "Flemington Racecourse",
+        "Y": -37.79080826,
+        "X": 144.912143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91214299971611,
+          -37.790808259810831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Southern Cross Railway Station",
+        "Y": -37.81816331,
+        "X": 144.9529447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952944700013006,
+          -37.818163310274024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "Princess Theatre",
+        "Y": -37.81072571,
+        "X": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0,
+          90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Treasury Gardens",
+        "Y": -37.81439936,
+        "X": 144.9759523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.975952300355488,
+          -37.814399360250476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Secondary Schools",
+        "Feature_Na": "University High School",
+        "Y": -37.79731362,
+        "X": 144.9560344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.956034400317918,
+          -37.797313619588635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "State Library Victoria",
+        "Y": -37.80998522,
+        "X": 144.9643303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964330300529497,
+          -37.809985220194044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "Regent Theatre",
+        "Y": -37.81600147,
+        "X": 144.9679167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967916699593104,
+          -37.816001470196511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Mixed Use",
+        "Sub_Theme": "Retail\/Office",
+        "Feature_Na": "Treasury Reserve",
+        "Y": -37.81291788,
+        "X": 144.9752368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.975236800250713,
+          -37.812917879889994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Office",
+        "Sub_Theme": "Office",
+        "Feature_Na": "Old Treasury Building",
+        "Y": -37.81323717,
+        "X": 144.9744236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.974423599506196,
+          -37.813237169902536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Private Hospital",
+        "Feature_Na": "Epworth Freemasons Hospital : Medical Centre",
+        "Y": -37.80934446,
+        "X": 144.9823368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.982336799941407,
+          -37.809344460392673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Batman Park",
+        "Y": -37.82184609,
+        "X": 144.9566658
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.956665800132157,
+          -37.821846090355947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Office",
+        "Sub_Theme": "Office",
+        "Feature_Na": "Australian Red Cross",
+        "Y": -37.7990921,
+        "X": 144.9526359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952635900118082,
+          -37.799092100285179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Government Building",
+        "Feature_Na": "Melbourne Magistrates Court",
+        "Y": -37.81361477,
+        "X": 144.9568462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.956846199638164,
+          -37.813614769850048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Flagstaff Railway Station",
+        "Y": -37.81223565,
+        "X": 144.9563182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.956318199805878,
+          -37.812235649575449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "Supreme Court",
+        "Y": -37.81414942,
+        "X": 144.957894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.957894000222495,
+          -37.814149419890946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Richmond Football Club",
+        "Y": -37.821674,
+        "X": 144.9881563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.988156300525731,
+          -37.821673999860181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "Melbourne Cricket Ground (MCG)",
+        "Y": -37.81949216,
+        "X": 144.9834029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98340290043609,
+          -37.819492159728419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Outdoor Recreation Facility (Zoo, Golf Course)",
+        "Feature_Na": "Melbourne Zoo",
+        "Y": -37.78444493,
+        "X": 144.9513712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95137119957792,
+          -37.784444929540008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Function\/Conference\/Exhibition Centre",
+        "Feature_Na": "Melbourne Exhibition Centre",
+        "Y": -37.82524551,
+        "X": 144.9543524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.954352400043376,
+          -37.825245509624466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Function\/Conference\/Exhibition Centre",
+        "Feature_Na": "Melbourne Convention Centre",
+        "Y": -37.82490405,
+        "X": 144.9522883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952288299772476,
+          -37.824904050243802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Polly Woodside",
+        "Y": -37.82425743,
+        "X": 144.9534781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.953478099833347,
+          -37.824257429809258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Vacant Land",
+        "Sub_Theme": "Vacant Land - Undeveloped Site",
+        "Feature_Na": "Melbourne International Karting Complex",
+        "Y": -37.83107464,
+        "X": 144.9138229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.913822899521392,
+          -37.831074640359361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Private Sports Club\/Facility",
+        "Feature_Na": "Melbourne International Shooting Club",
+        "Y": -37.82928449,
+        "X": 144.9134158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.913415799707593,
+          -37.829284490003701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Mixed Use",
+        "Sub_Theme": "Retail\/Office\/Carpark",
+        "Feature_Na": "Southgate Arts and Leisure Precinct",
+        "Y": -37.82022458,
+        "X": 144.9659891
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.965989100227887,
+          -37.820224580153116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Australian Centre for Contemporary Art",
+        "Y": -37.82660454,
+        "X": 144.9672529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967252900257421,
+          -37.82660453991847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "Malthouse Theatre",
+        "Y": -37.8271768,
+        "X": 144.9669368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.966936799928902,
+          -37.827176799733969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Patricks Cathedral",
+        "Y": -37.8101141,
+        "X": 144.9759015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.975901499477658,
+          -37.810114099933685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Victorian Arts Centre",
+        "Y": -37.82199473,
+        "X": 144.9688373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968837299884541,
+          -37.821994730398679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Office",
+        "Sub_Theme": "Office",
+        "Feature_Na": "Parliament House",
+        "Y": -37.81124666,
+        "X": 144.9737264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973726399805201,
+          -37.8112466596735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "Melbourne Town Hall",
+        "Y": -37.81507548,
+        "X": 144.9665427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96654270010157,
+          -37.815075480221346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Office",
+        "Sub_Theme": "Office",
+        "Feature_Na": "Former Royal Mint",
+        "Y": -37.81218387,
+        "X": 144.9570555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.957055500267217,
+          -37.812183870263411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Queen Victoria Gardens",
+        "Y": -37.82163812,
+        "X": 144.9710495
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.971049499646227,
+          -37.821638119901422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "Sidney Myer Music Bowl",
+        "Y": -37.82334716,
+        "X": 144.9746862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.974686199665683,
+          -37.823347160238626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Purpose Built",
+        "Sub_Theme": "Casino",
+        "Feature_Na": "Crown Entertainment Complex",
+        "Y": -37.82357611,
+        "X": 144.9573129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.957312900521941,
+          -37.823576109707844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Public Hospital",
+        "Feature_Na": "The Royal Victorian Eye & Ear Hospital",
+        "Y": -37.80875228,
+        "X": 144.9762683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.976268299451533,
+          -37.808752279687219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Office",
+        "Sub_Theme": "Office",
+        "Feature_Na": "SBS (Special Broadcasting Service)",
+        "Y": -37.81769212,
+        "X": 144.9687406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968740599451309,
+          -37.817692120167791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "The Ian Potter Centre: NGV Australia",
+        "Y": -37.81748314,
+        "X": 144.969899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9698990004037,
+          -37.817483140252961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Federation Square",
+        "Y": -37.81785166,
+        "X": 144.9689636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968963600431294,
+          -37.817851659639487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Thoroughbred Racing Gallery",
+        "Y": -37.81886627,
+        "X": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0,
+          90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "New Quay",
+        "Y": -37.81521788,
+        "X": 144.9416179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.941617900370062,
+          -37.815217879667962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Purpose Built",
+        "Sub_Theme": "Film & RV Studio",
+        "Feature_Na": "Central City Studios",
+        "Y": -37.81423185,
+        "X": 144.9356553
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.935655299874043,
+          -37.814231850342459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Purpose Built",
+        "Sub_Theme": "Film & RV Studio",
+        "Feature_Na": "Channel 7 - Melbourne Broadcast Centre",
+        "Y": -37.81585723,
+        "X": 144.9458233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.945823299985165,
+          -37.815857230393824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Docklands Park",
+        "Y": -37.82099568,
+        "X": 144.9467817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.946781700446735,
+          -37.820995680329894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Vacant Land",
+        "Sub_Theme": "Current Construction Site",
+        "Feature_Na": "Harbour Town",
+        "Y": -37.81392563,
+        "X": 144.9381238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.938123799583281,
+          -37.813925629636444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "AAMI Park",
+        "Y": -37.82472527,
+        "X": 144.983803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.983802999616216,
+          -37.824725269669067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Marina",
+        "Feature_Na": "New Quay Marina",
+        "Y": -37.81529255,
+        "X": 144.9422837
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.942283699966794,
+          -37.815292550442237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Function\/Conference\/Exhibition Centre",
+        "Feature_Na": "Central Pier",
+        "Y": -37.81651773,
+        "X": 144.943475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.943474999763367,
+          -37.816517729615377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Observation Tower\/Wheel",
+        "Feature_Na": "Melbourne Star Observation Wheel",
+        "Y": -37.81161637,
+        "X": 144.9375889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.937588900331122,
+          -37.811616369698619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Point Park",
+        "Y": -37.82335227,
+        "X": 144.9421023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.942102299892525,
+          -37.823352269567039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Primary Schools",
+        "Feature_Na": "Kensington Primary School",
+        "Y": -37.7925235,
+        "X": 144.9271087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.927108699955852,
+          -37.792523500089317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Newmarket Reserve",
+        "Y": -37.78784733,
+        "X": 144.9229721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.922972100470901,
+          -37.787847330304047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Public Hospital",
+        "Feature_Na": "Royal Womens Hospital",
+        "Y": -37.79888925,
+        "X": 144.9548973
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.954897299468428,
+          -37.798889249615918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Further Education",
+        "Feature_Na": "Kangan Batman Tafe",
+        "Y": -37.82218182,
+        "X": 144.9489085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94890849987803,
+          -37.822181819632625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Fox Classic Car Collection",
+        "Y": -37.82137443,
+        "X": 144.9484967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.948496700486146,
+          -37.821374429808806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Specialist Residential Accommodation",
+        "Sub_Theme": "Hostel",
+        "Feature_Na": "The Mission To Seafarers Victoria",
+        "Y": -37.8224996,
+        "X": 144.9512548
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.951254799759255,
+          -37.822499599959208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Vacant Land",
+        "Sub_Theme": "Current Construction Site - Commercial",
+        "Feature_Na": "Railway Good Shed No 2",
+        "Y": -37.82113713,
+        "X": 144.9513789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.951378899543897,
+          -37.821137129930413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Outdoor Recreation Facility (Zoo, Golf Course)",
+        "Feature_Na": "Wonderland Park",
+        "Y": -37.81169454,
+        "X": 144.9368337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.936833700533697,
+          -37.811694540264035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "Rod Laver Arena",
+        "Y": -37.82204561,
+        "X": 144.9784872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97848719982656,
+          -37.822045610061124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "Melbourne Park",
+        "Y": -37.8209086,
+        "X": 144.9787358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.978735800167726,
+          -37.820908599546819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "Margaret Court Arena",
+        "Y": -37.82132521,
+        "X": 144.9775911
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.977591100056969,
+          -37.821325209941122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Melbourne Museum",
+        "Y": -37.80355181,
+        "X": 144.9716907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97169070050964,
+          -37.803551810021368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Cinema",
+        "Feature_Na": "IMAX Melbourne",
+        "Y": -37.80343156,
+        "X": 144.9706399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.970639900101702,
+          -37.803431560294491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "MTC Theatre",
+        "Y": -37.82426618,
+        "X": 144.9681744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968174399659432,
+          -37.824266179786441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "Elisabeth Murdoch Hall",
+        "Y": -37.82397337,
+        "X": 144.967451
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96745099984679,
+          -37.82397336965645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "Melbourne Recital Centre",
+        "Y": -37.82383279,
+        "X": 144.9676827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96768269965753,
+          -37.823832790201699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "NGV International",
+        "Y": -37.8230135,
+        "X": 144.9693425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96934250008502,
+          -37.823013500264317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "Hamer Hall",
+        "Y": -37.8199901,
+        "X": 144.9679921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967992100250598,
+          -37.819990100366212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Indoor Recreation Facility",
+        "Feature_Na": "Artplay",
+        "Y": -37.81841988,
+        "X": 144.9715426
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.971542600286142,
+          -37.818419879902706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Riverslide Skate Park",
+        "Y": -37.82078871,
+        "X": 144.9729518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.972951800149474,
+          -37.820788709839796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Alexandra Gardens",
+        "Y": -37.82060514,
+        "X": 144.9717961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.971796100026353,
+          -37.820605140423403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Parliament Railway Station",
+        "Y": -37.81160618,
+        "X": 144.9730173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973017299605033,
+          -37.811606180244645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Richmond Railway Station (Richmond) - Train stop",
+        "Y": -37.82389927,
+        "X": 144.9894008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.989400799843395,
+          -37.823899269846549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Jolimont-MCG Railway Station (East Melbourne) - Train stop",
+        "Y": -37.81656518,
+        "X": 144.983641
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.983641000290959,
+          -37.816565179761163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "North Melbourne Recreation Reserve",
+        "Y": -37.79883453,
+        "X": 144.9414521
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.941452099677321,
+          -37.798834529874142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "J.J Holland Park",
+        "Y": -37.79823588,
+        "X": 144.9238371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.923837099457728,
+          -37.79823588015892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Kensington Railway Station",
+        "Y": -37.79391401,
+        "X": 144.9307102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93071019964799,
+          -37.793914009794221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "South Kensington Railway Station",
+        "Y": -37.79972705,
+        "X": 144.9258377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.925837700122429,
+          -37.799727050307872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Royal Park",
+        "Y": -37.79061743,
+        "X": 144.9538342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.953834200367055,
+          -37.790617429575683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Public Hospital",
+        "Feature_Na": "Royal Childrens Hospital",
+        "Y": -37.79420608,
+        "X": 144.9500483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.950048299860526,
+          -37.794206080382558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Royal Park Railway Station",
+        "Y": -37.78126843,
+        "X": 144.9516678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.951667800092451,
+          -37.781268430058596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Princes Park",
+        "Y": -37.78701617,
+        "X": 144.9611152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.961115200522158,
+          -37.787016170334489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "National Sports Museum",
+        "Y": -37.81895449,
+        "X": 144.9846698
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.984669799611623,
+          -37.81895448987671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Shrine of Rembrance Reserve",
+        "Y": -37.8320734,
+        "X": 144.9736284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973628400532505,
+          -37.832073399569325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "Shrine of Remembrance",
+        "Y": -37.830208,
+        "X": 144.9734419
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97344190005694,
+          -37.830207999551149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Residential Accommodation",
+        "Sub_Theme": "Dwelling (House)",
+        "Feature_Na": "Government House",
+        "Y": -37.82756359,
+        "X": 144.9766551
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.976655100459567,
+          -37.827563590015693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Royal Botanic Gardens",
+        "Y": -37.83066316,
+        "X": 144.9808504
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.980850400465215,
+          -37.830663160021395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Office",
+        "Sub_Theme": "Office",
+        "Feature_Na": "Coronial Services Centre of Victoria",
+        "Y": -37.82434374,
+        "X": 144.9644746
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964474599893038,
+          -37.824343739751733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Office",
+        "Sub_Theme": "Office",
+        "Feature_Na": "Victorian Insitute of Forensic Medicine",
+        "Y": -37.82469241,
+        "X": 144.9649791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96497910001861,
+          -37.824692410047625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Office",
+        "Sub_Theme": "Office",
+        "Feature_Na": "Donor Tissue Bank of Victoria",
+        "Y": -37.82482319,
+        "X": 144.965169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.965169000468279,
+          -37.824823190415948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Office",
+        "Sub_Theme": "Office",
+        "Feature_Na": "State Coroners Office",
+        "Y": -37.82449822,
+        "X": 144.9646753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964675300478945,
+          -37.824498220171755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Indoor Recreation Facility",
+        "Feature_Na": "Icehouse",
+        "Y": -37.81218812,
+        "X": 144.935684
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.935684000246795,
+          -37.812188120316669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Parliament Railway Station",
+        "Y": -37.81215728,
+        "X": 144.973742
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9737419997644,
+          -37.812157279753684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Parliament Railway Station",
+        "Y": -37.81276211,
+        "X": 144.9734338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97343380054329,
+          -37.812762109958747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Parliament Railway Station",
+        "Y": -37.80957622,
+        "X": 144.9723301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.972330100516587,
+          -37.809576220041251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Flagstaff Railway Station",
+        "Y": -37.81163844,
+        "X": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0,
+          90.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Melbourne Central Railway Station",
+        "Y": -37.80977593,
+        "X": 144.9626701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96267009980005,
+          -37.809775929679574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Melbourne Central Railway Station",
+        "Y": -37.81059924,
+        "X": 144.9616906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96169059964717,
+          -37.810599239652269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Melbourne Central Railway Station",
+        "Y": -37.810893,
+        "X": 144.9631007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96310070000348,
+          -37.810893000187264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Flemington Racecourse Railway Station",
+        "Y": -37.78691058,
+        "X": 144.9081907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.908190700038148,
+          -37.78691057966531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Showgrounds Railway Station (Flemington)",
+        "Y": -37.78346512,
+        "X": 144.9149026
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.914902599710388,
+          -37.78346512001756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Newmarket Railway Station",
+        "Y": -37.78727262,
+        "X": 144.92906
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.929060000530285,
+          -37.787272619984655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "Athanaeum Theatre",
+        "Y": -37.81495435,
+        "X": 144.9673225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967322499454895,
+          -37.814954350247469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Public Hospital",
+        "Feature_Na": "Alfred Hospital",
+        "Y": -37.84626312,
+        "X": 144.9817863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.981786300142375,
+          -37.8462631196304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Outdoor Recreation Facility (Zoo, Golf Course)",
+        "Feature_Na": "Riverside Park",
+        "Y": -37.79483753,
+        "X": 144.9156071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.915607099525261,
+          -37.794837530162312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "Carlton Courthouse Theatre",
+        "Y": -37.79765899,
+        "X": 144.9687501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968750100045838,
+          -37.797658990370053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Flagstaff Gardens",
+        "Y": -37.81112229,
+        "X": 144.9546961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.954696099930089,
+          -37.811122290040792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Outdoor Recreation Facility (Zoo, Golf Course)",
+        "Feature_Na": "Melbourne Showgrounds",
+        "Y": -37.78230979,
+        "X": 144.9108221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.910822100133288,
+          -37.782309790076823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Primary Schools",
+        "Feature_Na": "North Melbourne Primary School",
+        "Y": -37.79867372,
+        "X": 144.9510658
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.951065799717753,
+          -37.798673720301487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "Her Majesty's Theatre",
+        "Y": -37.81099756,
+        "X": 144.9695202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.969520199924887,
+          -37.810997559770357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "Comedy Theatre",
+        "Y": -37.81020539,
+        "X": 144.9701331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.970133100151713,
+          -37.810205389690985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Theatre Live",
+        "Feature_Na": "La Mama Theatre",
+        "Y": -37.7991305,
+        "X": 144.9676695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967669500130796,
+          -37.799130499789221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Industrial",
+        "Sub_Theme": "Industrial (Manufacturing)",
+        "Feature_Na": "Kraft",
+        "Y": -37.82623131,
+        "X": 144.9234757
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.923475699428252,
+          -37.826231310150355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Fawkner Park",
+        "Y": -37.84139967,
+        "X": 144.9816257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.981625700284781,
+          -37.84139967002141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Fitzroy Gardens",
+        "Y": -37.81296163,
+        "X": 144.9804557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.980455699982826,
+          -37.812961630201407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Sinclair's Cottage",
+        "Y": -37.81454075,
+        "X": 144.980555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.980555000491336,
+          -37.814540750397946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Tertiary (University)",
+        "Feature_Na": "BIO 21 Institute",
+        "Y": -37.79787433,
+        "X": 144.9537803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95378029947554,
+          -37.797874329961978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Victoria Police Museum",
+        "Y": -37.82221828,
+        "X": 144.95404
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.954040000270851,
+          -37.822218279677813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Immigration Museum",
+        "Y": -37.81917988,
+        "X": 144.9604268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.960426799709211,
+          -37.819179879745654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place of Worship",
+        "Sub_Theme": "Church",
+        "Feature_Na": "St Pauls Cathedral",
+        "Y": -37.8169549,
+        "X": 144.9676816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967681600444507,
+          -37.81695489963974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Flinders Street Railway Station",
+        "Y": -37.8179063,
+        "X": 144.9670648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967064799589764,
+          -37.817906299536489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Warehouse\/Store",
+        "Sub_Theme": "Store Yard",
+        "Feature_Na": "Melbourne Wholesale Fish Market",
+        "Y": -37.8083471,
+        "X": 144.9306133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.930613299654937,
+          -37.808347099574505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Fire Services Museum Victoria",
+        "Y": -37.80857613,
+        "X": 144.9753737
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.975373700032861,
+          -37.808576129633593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Fire Station",
+        "Feature_Na": "Metropolitan Fire Brigade (MFB)",
+        "Y": -37.80923186,
+        "X": 144.9752476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.975247600158042,
+          -37.809231860310753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Public Hospital",
+        "Feature_Na": "Royal Melbourne Hospital",
+        "Y": -37.79930717,
+        "X": 144.9563897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.956389699808852,
+          -37.799307170324745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "The Ian Potter Museum Of Art",
+        "Y": -37.79739396,
+        "X": 144.9641567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964156699915975,
+          -37.797393960409408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Tertiary (University)",
+        "Feature_Na": "University of Melbourne",
+        "Y": -37.79828923,
+        "X": 144.9609952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.960995199694935,
+          -37.798289229923377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Koorie Heritage Trust Inc",
+        "Y": -37.81338543,
+        "X": 144.9540279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.954027899960437,
+          -37.813385429827527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "Commonwealth Law Courts",
+        "Y": -37.81239617,
+        "X": 144.9558238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.955823799840545,
+          -37.812396169543931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "Tertiary (University)",
+        "Feature_Na": "RMIT University",
+        "Y": -37.80807954,
+        "X": 144.964453
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964452999669732,
+          -37.808079540313301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Mixed Use",
+        "Sub_Theme": "Retail\/Office\/Carpark",
+        "Feature_Na": "Melbourne Central",
+        "Y": -37.81053718,
+        "X": 144.9627497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.962749699680586,
+          -37.810537179647788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "Melbourne Central Railway Station",
+        "Y": -37.8100167,
+        "X": 144.9637893
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963789299957227,
+          -37.810016700392289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Mixed Use",
+        "Sub_Theme": "Retail\/Office\/Residential\/Carpark",
+        "Feature_Na": "QV Village",
+        "Y": -37.81068919,
+        "X": 144.9657146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.965714599698003,
+          -37.810689190300614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Argyle Square",
+        "Y": -37.80314806,
+        "X": 144.9657613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.965761300145061,
+          -37.8031480597297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Piazza Italia",
+        "Y": -37.80251642,
+        "X": 144.9658631
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.965863099740091,
+          -37.802516420044441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Macarthur Square",
+        "Y": -37.79833187,
+        "X": 144.9715141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.971514099611142,
+          -37.798331870251147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Murchinson Square",
+        "Y": -37.8002735,
+        "X": 144.9730593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973059300544094,
+          -37.800273499875992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "North Melbourne Recreation Centre (Aquatic)",
+        "Y": -37.799947,
+        "X": 144.9432908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.943290800307125,
+          -37.799946999867913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Gymnasium\/Health Club",
+        "Feature_Na": "North Melbourne Recreation Centre (Gymnasium)",
+        "Y": -37.79970512,
+        "X": 144.9403683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.940368299733507,
+          -37.799705120025195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Indoor Recreation Facility",
+        "Feature_Na": "Carlton Baths",
+        "Y": -37.7934377,
+        "X": 144.9716965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.971696499771184,
+          -37.793437699813694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "City Baths",
+        "Y": -37.80715854,
+        "X": 144.9631898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963189799518204,
+          -37.807158540180914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Westgate Park",
+        "Y": -37.83149186,
+        "X": 144.9088248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.908824799596346,
+          -37.831491860036209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Railway Station",
+        "Feature_Na": "North Melbourne Railway Station",
+        "Y": -37.80738236,
+        "X": 144.9424298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.942429800519221,
+          -37.807382360435454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Cooks' Cottage",
+        "Y": -37.81446049,
+        "X": 144.9794713
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.979471300209923,
+          -37.814460489978707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "Conservatory",
+        "Y": -37.81400213,
+        "X": 144.9785597
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.978559699429667,
+          -37.814002130048962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Purpose Built",
+        "Sub_Theme": "Aquarium",
+        "Feature_Na": "Melbourne Aquarium",
+        "Y": -37.82096278,
+        "X": 144.9584257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.958425699804309,
+          -37.820962780392115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "Westpac Centre",
+        "Y": -37.82424569,
+        "X": 144.9797203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.979720299659192,
+          -37.824245690137339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "Melbourne Childrens Court",
+        "Y": -37.81250776,
+        "X": 144.9582989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.958298900512631,
+          -37.812507760174597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Major Sports & Recreation Facility",
+        "Feature_Na": "Etihad Stadium",
+        "Y": -37.81617605,
+        "X": 144.9474963
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.947496299627034,
+          -37.816176049873881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Observation Tower\/Wheel",
+        "Feature_Na": "Eureka Skydeck 88",
+        "Y": -37.82161876,
+        "X": 144.9646222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964622200244747,
+          -37.821618759590088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Mixed Use",
+        "Sub_Theme": "Retail\/Residential",
+        "Feature_Na": "Eureka Tower",
+        "Y": -37.82151575,
+        "X": 144.9644567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964456700346744,
+          -37.821515749992173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Public Buildings",
+        "Feature_Na": "County Court Melbourne",
+        "Y": -37.81320116,
+        "X": 144.9577342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.957734200017967,
+          -37.813201159726404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Public Hospital",
+        "Feature_Na": "Peter Maccallum Cancer Institute",
+        "Y": -37.81147667,
+        "X": 144.9774009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.977400899448838,
+          -37.811476670209004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Public Hospital",
+        "Feature_Na": "Royal Dental Hospital",
+        "Y": -37.79950659,
+        "X": 144.9645268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964526799916996,
+          -37.79950658958716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Sandridge Rail Bridge",
+        "Y": -37.8201763,
+        "X": 144.9629811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.962981099590223,
+          -37.820176299796884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Mixed Use",
+        "Sub_Theme": "Retail\/Office\/Residential\/Carpark",
+        "Feature_Na": "Freshwater Place",
+        "Y": -37.82197455,
+        "X": 144.9624614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.962461399562358,
+          -37.821974549562206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Community Use",
+        "Sub_Theme": "Visitor Centre",
+        "Feature_Na": "Melbourne Visitor Centre",
+        "Y": -37.81773524,
+        "X": 144.9679371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967937100317926,
+          -37.817735239995869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "Australian Centre For The Moving Image (ACMI)",
+        "Y": -37.81761073,
+        "X": 144.9690704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.969070399579294,
+          -37.817610730369232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Transport",
+        "Sub_Theme": "Bridge",
+        "Feature_Na": "Webb Bridge",
+        "Y": -37.82320524,
+        "X": 144.947291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.947290999783576,
+          -37.823205240265835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Function\/Conference\/Exhibition Centre",
+        "Feature_Na": "Dallas Brooks Centre",
+        "Y": -37.80973741,
+        "X": 144.9813834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.981383400058604,
+          -37.809737409794664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Education Centre",
+        "Sub_Theme": "School - Primary and Secondary Education",
+        "Feature_Na": "Melbourne Girls Grammar School",
+        "Y": -37.83153645,
+        "X": 144.9850894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.985089399708869,
+          -37.831536450037319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Retail",
+        "Sub_Theme": "Department Store",
+        "Feature_Na": "Myer",
+        "Y": -37.8135912,
+        "X": 144.9638551
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963855100313964,
+          -37.813591200319266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Retail",
+        "Sub_Theme": "Department Store",
+        "Feature_Na": "David Jones",
+        "Y": -37.81331273,
+        "X": 144.9643735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96437349975858,
+          -37.81331272977885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Leisure\/Recreation",
+        "Sub_Theme": "Informal Outdoor Facility (Park\/Garden\/Reserve)",
+        "Feature_Na": "Lincoln Square",
+        "Y": -37.80279197,
+        "X": 144.9627609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96276090005415,
+          -37.80279196979933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Health Services",
+        "Sub_Theme": "Private Hospital",
+        "Feature_Na": "Epworth Freemasons Hospital",
+        "Y": -37.81097107,
+        "X": 144.9837001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.983700099884828,
+          -37.810971070308831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Residential Accommodation",
+        "Sub_Theme": "Dwelling (House)",
+        "Feature_Na": "Bishopscourt",
+        "Y": -37.81329216,
+        "X": 144.9835069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.983506899458263,
+          -37.813292160175891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Place Of Assembly",
+        "Sub_Theme": "Art Gallery\/Museum",
+        "Feature_Na": "The Museum Of Australian Chinese History",
+        "Y": -37.81076861,
+        "X": 144.9692339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96923389980094,
+          -37.810768609721912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Theme": "Mixed Use",
+        "Sub_Theme": "Retail\/Office\/Carpark",
+        "Feature_Na": "ANZ 'Gothic' Bank",
+        "Y": -37.81615807,
+        "X": 144.9616737
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.961673699966894,
+          -37.81615807043606
+        ]
+      }
+    }
+  ]
+}

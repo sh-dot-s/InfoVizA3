@@ -3,12 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@deck.gl/core": "^8.5.10",
+    "@deck.gl/geo-layers": "^8.5.10",
+    "@deck.gl/layers": "^8.5.10",
+    "@deck.gl/react": "^8.5.10",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@loaders.gl/core": "^3.0.12",
+    "@loaders.gl/gis": "^3.0.12",
+    "@mui/icons-material": "^5.0.4",
+    "@mui/material": "^5.0.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "deck.gl": "^8.5.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-map-gl": "^6.1.17",
     "react-scripts": "4.0.3",
+    "shapefile": "^0.6.6",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -27,12 +40,19 @@
     "production": [
       ">0.2%",
       "not dead",
-      "not op_mini all"
+      "not op_mini all",
+      "not ie 11",
+      "not chrome < 51",
+      "not safari < 10"
     ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@loaders.gl/mvt": "^3.0.12",
+    "d3-scale": "^4.0.2"
   }
 }
