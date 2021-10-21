@@ -55,6 +55,22 @@ export const COLOR_SCALE = scaleThreshold()
         [215, 48, 39],
         [168, 0, 0]
     ]);
+export const COLOR_SCALE_POI = scaleThreshold()
+    .domain([1, 2, 3, 4, 8, 9, 10, 13, 20, 31, 38, 56])
+    .range([
+        [204, 255, 255],
+        [77,255,255],
+        [0,209,0],
+        [64,128,0],
+        [0,128,128],
+        [255,255,122],
+        [255,209,71],
+        [168,190,255],
+        [194,71,133],
+        [255,0,204],
+        [255,0,77],
+        [153,0,46]
+    ]);
 
 const ICON_MAPPING = {
     marker: {x: 0, y: 0, width: 128, height: 128, mask: true}
@@ -256,7 +272,7 @@ export default function MapNew({loopLength = 200, animationSpeed = 0.2}) {
                 ),
             pointType: 'icon',
             getIconSize: d => 40,
-            getIconColor: d => WIDTH_SCALE(poi_types.indexOf(d.properties.Theme)),
+            getIconColor: d => COLOR_SCALE_POI(poi_types.indexOf(d.properties.Theme)),
             getIcon: d => 'marker',
             iconMapping: ICON_MAPPING,
             iconAtlas: 'https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/icon-atlas.png',
